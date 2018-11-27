@@ -1,0 +1,37 @@
+#ibw_uploadfilecsv{
+	    z-index: 999;
+    height: 48px;
+    padding: 11px;
+}
+
+.success_on_upload{
+	    color: blue;
+    padding: 5px;
+    padding-top: 30px;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 500;
+	    width: 100%;
+    display: inline-block
+}
+.error_on_upload{
+	    color: red;
+    padding: 5px;
+    padding-top: 30px;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 500;
+	    width: 100%;
+    display: inline-block
+}
+
+#importatter  tr td:first-child{
+	font-size: 18px;
+    font-weight: 600;
+}
+
+.erner_on_upload{
+	    width: 130px;
+    float: left;
+    font-weight: 500;
+}
